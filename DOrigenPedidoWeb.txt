@@ -7,7 +7,9 @@
 1010105	Desktop Home Showroom Carrusel Ver Más	1	Desktop	01	Home	01	Showroom	05	Carrusel Ver Más	1
 1010306	Desktop Home Oferta Del Día Banner Superior	1	Desktop	01	Home	03	Oferta Del Día	06	Banner Superior	1
 1010601	Desktop Home Liquidación Carrusel	1	Desktop	01	Home	06	Liquidación	01	Carrusel	1
-1010901	Desktop Home Banners Carrusel	1	Desktop	01	Home	09	Banners	01	Carrusel	1
+1010901	Desktop Home Banners Carrusel	1	Desktop	01	Home	09	Banners	01	Carrusel	1}
+1020001	Desktop Pedido Ofertas Para Ti Carrusel	1	Desktop	02	Pedido	00	Ofertas Para Ti	01	Carrusel	1
+1020001	Desktop Pedido Ofertas Para Ti Carrusel	1	Desktop	02	Pedido	00	Ofertas Para Ti	01	Carrusel	1
 1020001	Desktop Pedido Ofertas Para Ti Carrusel	1	Desktop	02	Pedido	00	Ofertas Para Ti	01	Carrusel	1
 1020002	Desktop Pedido Ofertas Para Ti Ficha	1	Desktop	02	Pedido	00	Ofertas Para Ti	02	Ficha	1
 1020306	Desktop Pedido Oferta Del Día Banner Superior	1	Desktop	02	Pedido	03	Oferta Del Día	06	Banner Superior	1
