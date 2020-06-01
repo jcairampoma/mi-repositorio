@@ -1,0 +1,496 @@
+1000801	Desktop Landing Herramientas de Venta Herramientas de Venta Carrusel	1	Desktop	00	Landing Herramientas de Venta	08	Herramientas de Venta	01	Carrusel	1
+1000802	Desktop Landing Herramientas de Venta Herramientas de Venta Ficha	1	Desktop	00	Landing Herramientas de Venta	08	Herramientas de Venta	02	Ficha	1
+1010001	Desktop Home Ofertas Para Ti Carrusel	1	Desktop	01	Home	00	Ofertas Para Ti	01	Carrusel	1
+1010002	Desktop Home Ofertas Para Ti Ficha	1	Desktop	01	Home	00	Ofertas Para Ti	02	Ficha	1
+1010101	Desktop Home Showroom Carrusel	1	Desktop	01	Home	01	Showroom	01	Carrusel	1
+1010102	Desktop Home Showroom Ficha	1	Desktop	01	Home	01	Showroom	02	Ficha	1
+1010105	Desktop Home Showroom Carrusel Ver Más	1	Desktop	01	Home	01	Showroom	05	Carrusel Ver Más	1
+1010306	Desktop Home Oferta Del Día Banner Superior	1	Desktop	01	Home	03	Oferta Del Día	06	Banner Superior	1
+1010601	Desktop Home Liquidación Carrusel	1	Desktop	01	Home	06	Liquidación	01	Carrusel	1
+1010901	Desktop Home Banners Carrusel	1	Desktop	01	Home	09	Banners	01	Carrusel	1
+1020001	Desktop Pedido Ofertas Para Ti Carrusel	1	Desktop	02	Pedido	00	Ofertas Para Ti	01	Carrusel	1
+1020002	Desktop Pedido Ofertas Para Ti Ficha	1	Desktop	02	Pedido	00	Ofertas Para Ti	02	Ficha	1
+1020306	Desktop Pedido Oferta Del Día Banner Superior	1	Desktop	02	Pedido	03	Oferta Del Día	06	Banner Superior	1
+1020401	Desktop Pedido Oferta Final Carrusel	1	Desktop	02	Pedido	04	Oferta Final	01	Carrusel	1
+1020402	Desktop Pedido Oferta Final Ficha	1	Desktop	02	Pedido	04	Oferta Final	02	Ficha	1
+1020701	Desktop Pedido Producto Sugerido Carrusel	1	Desktop	02	Pedido	07	Producto Sugerido	01	Carrusel	1
+10210	Desktop Pedido Digitado 	1	Desktop	02	Pedido	10	Digitado			1
+1030601	Desktop Landing Liquidación Liquidación Carrusel	1	Desktop	03	Landing Liquidación	06	Liquidación	01	Carrusel	1
+1040002	Desktop Buscador Ofertas Para Ti Ficha	1	Desktop	04	Buscador	00	Ofertas Para Ti	02	Ficha	1
+1040004	Desktop Buscador Ofertas Para Ti Desplegable Buscador	1	Desktop	04	Buscador	00	Ofertas Para Ti	04	Desplegable Buscador	1
+1040102	Desktop Buscador Showroom Ficha	1	Desktop	04	Buscador	01	Showroom	02	Ficha	1
+1040104	Desktop Buscador Showroom Desplegable Buscador	1	Desktop	04	Buscador	01	Showroom	04	Desplegable Buscador	1
+1040202	Desktop Buscador Lanzamientos Ficha	1	Desktop	04	Buscador	02	Lanzamientos	02	Ficha	1
+1040204	Desktop Buscador Lanzamientos Desplegable Buscador	1	Desktop	04	Buscador	02	Lanzamientos	04	Desplegable Buscador	1
+1040302	Desktop Buscador Oferta Del Día Ficha	1	Desktop	04	Buscador	03	Oferta Del Día	02	Ficha	1
+1040304	Desktop Buscador Oferta Del Día Desplegable Buscador	1	Desktop	04	Buscador	03	Oferta Del Día	04	Desplegable Buscador	1
+1040502	Desktop Buscador GND Ficha	1	Desktop	04	Buscador	05	GND	02	Ficha	1
+1040504	Desktop Buscador GND Desplegable Buscador	1	Desktop	04	Buscador	05	GND	04	Desplegable Buscador	1
+1040604	Desktop Buscador Liquidación Desplegable Buscador	1	Desktop	04	Buscador	06	Liquidación	04	Desplegable Buscador	1
+1040802	Desktop Buscador Herramientas de Venta Ficha	1	Desktop	04	Buscador	08	Herramientas de Venta	02	Ficha	1
+1040804	Desktop Buscador Herramientas de Venta Desplegable Buscador	1	Desktop	04	Buscador	08	Herramientas de Venta	04	Desplegable Buscador	1
+1041104	Desktop Buscador Catalogo Lbel Desplegable Buscador	1	Desktop	04	Buscador	11	Catalogo Lbel	04	Desplegable Buscador	1
+1041204	Desktop Buscador Catalogo Esika Desplegable Buscador	1	Desktop	04	Buscador	12	Catalogo Esika	04	Desplegable Buscador	1
+1041304	Desktop Buscador Catalogo Cyzone Desplegable Buscador	1	Desktop	04	Buscador	13	Catalogo Cyzone	04	Desplegable Buscador	1
+1050101	Desktop Landing Showroom Showroom Carrusel	1	Desktop	05	Landing Showroom	01	Showroom	01	Carrusel	1
+1050102	Desktop Landing Showroom Showroom Ficha	1	Desktop	05	Landing Showroom	01	Showroom	02	Ficha	1
+1050105	Desktop Landing Showroom Showroom Carrusel Ver Más	1	Desktop	05	Landing Showroom	01	Showroom	05	Carrusel Ver Más	1
+1050107	Desktop Landing Showroom Showroom Sub Campaña	1	Desktop	05	Landing Showroom	01	Showroom	07	Sub Campaña	1
+1060501	Desktop Landing GND GND Carrusel	1	Desktop	06	Landing GND	05	GND	01	Carrusel	1
+1060502	Desktop Landing GND GND Ficha	1	Desktop	06	Landing GND	05	GND	02	Ficha	1
+1070001	Desktop Landing Ofertas Para Ti Ofertas Para Ti Carrusel	1	Desktop	07	Landing Ofertas Para Ti	00	Ofertas Para Ti	01	Carrusel	1
+1070002	Desktop Landing Ofertas Para Ti Ofertas Para Ti Ficha	1	Desktop	07	Landing Ofertas Para Ti	00	Ofertas Para Ti	02	Ficha	1
+1080001	Desktop Contenedor Ofertas Para Ti Carrusel	1	Desktop	08	Contenedor	00	Ofertas Para Ti	01	Carrusel	1
+1080002	Desktop Contenedor Ofertas Para Ti Ficha	1	Desktop	08	Contenedor	00	Ofertas Para Ti	02	Ficha	1
+1080101	Desktop Contenedor Showroom Carrusel	1	Desktop	08	Contenedor	01	Showroom	01	Carrusel	1
+1080102	Desktop Contenedor Showroom Ficha	1	Desktop	08	Contenedor	01	Showroom	02	Ficha	1
+1080105	Desktop Contenedor Showroom Carrusel Ver Más	1	Desktop	08	Contenedor	01	Showroom	05	Carrusel Ver Más	1
+1080202	Desktop Contenedor Lanzamientos Ficha	1	Desktop	08	Contenedor	02	Lanzamientos	02	Ficha	1
+1080205	Desktop Contenedor Lanzamientos Carrusel Ver Más	1	Desktop	08	Contenedor	02	Lanzamientos	05	Carrusel Ver Más	1
+1080301	Desktop Contenedor Oferta Del Día Carrusel	1	Desktop	08	Contenedor	03	Oferta Del Día	01	Carrusel	1
+1080302	Desktop Contenedor Oferta Del Día Ficha	1	Desktop	08	Contenedor	03	Oferta Del Día	02	Ficha	1
+1080305	Desktop Contenedor Oferta Del Día Carrusel Ver Más	1	Desktop	08	Contenedor	03	Oferta Del Día	05	Carrusel Ver Más	1
+1080801	Desktop Contenedor Herramientas de Venta Carrusel	1	Desktop	08	Contenedor	08	Herramientas de Venta	01	Carrusel	1
+1080802	Desktop Contenedor Herramientas de Venta Ficha	1	Desktop	08	Contenedor	08	Herramientas de Venta	02	Ficha	1
+1081401	Desktop Contenedor Ganadoras Carrusel	1	Desktop	08	Contenedor	14	Ganadoras	01	Carrusel	1
+1081402	Desktop Contenedor Ganadoras Ficha	1	Desktop	08	Contenedor	14	Ganadoras	02	Ficha	1
+1090306	Desktop Otras Oferta Del Día Banner Superior	1	Desktop	09	Otras	03	Oferta Del Día	06	Banner Superior	1
+1111401	Desktop Landing Ganadoras Ganadoras Carrusel	1	Desktop	11	Landing Ganadoras	14	Ganadoras	01	Carrusel	1
+1111402	Desktop Landing Ganadoras Ganadoras Ficha	1	Desktop	11	Landing Ganadoras	14	Ganadoras	02	Ficha	1
+2000802	Mobile Landing Herramientas de Venta Herramientas de Venta Ficha	2	Mobile	00	Landing Herramientas de Venta	08	Herramientas de Venta	02	Ficha	1
+2010001	Mobile Home Ofertas Para Ti Carrusel	2	Mobile	01	Home	00	Ofertas Para Ti	01	Carrusel	1
+2010002	Mobile Home Ofertas Para Ti Ficha	2	Mobile	01	Home	00	Ofertas Para Ti	02	Ficha	1
+2010302	Mobile Home Oferta Del Día Ficha	2	Mobile	01	Home	03	Oferta Del Día	02	Ficha	1
+2020001	Mobile Pedido Ofertas Para Ti Carrusel	2	Mobile	02	Pedido	00	Ofertas Para Ti	01	Carrusel	1
+2020002	Mobile Pedido Ofertas Para Ti Ficha	2	Mobile	02	Pedido	00	Ofertas Para Ti	02	Ficha	1
+2020401	Mobile Pedido Oferta Final Carrusel	2	Mobile	02	Pedido	04	Oferta Final	01	Carrusel	1
+2020402	Mobile Pedido Oferta Final Ficha	2	Mobile	02	Pedido	04	Oferta Final	02	Ficha	1
+2020701	Mobile Pedido Producto Sugerido Carrusel	2	Mobile	02	Pedido	07	Producto Sugerido	01	Carrusel	1
+20210	Mobile Pedido Digitado 	2	Mobile	02	Pedido	10	Digitado			1
+2030601	Mobile Landing Liquidación Liquidación Carrusel	2	Mobile	03	Landing Liquidación	06	Liquidación	01	Carrusel	1
+2040002	Mobile Buscador Ofertas Para Ti Ficha	2	Mobile	04	Buscador	00	Ofertas Para Ti	02	Ficha	1
+2040004	Mobile Buscador Ofertas Para Ti Desplegable Buscador	2	Mobile	04	Buscador	00	Ofertas Para Ti	04	Desplegable Buscador	1
+2040102	Mobile Buscador Showroom Ficha	2	Mobile	04	Buscador	01	Showroom	02	Ficha	1
+2040104	Mobile Buscador Showroom Desplegable Buscador	2	Mobile	04	Buscador	01	Showroom	04	Desplegable Buscador	1
+2040202	Mobile Buscador Lanzamientos Ficha	2	Mobile	04	Buscador	02	Lanzamientos	02	Ficha	1
+2040204	Mobile Buscador Lanzamientos Desplegable Buscador	2	Mobile	04	Buscador	02	Lanzamientos	04	Desplegable Buscador	1
+2040302	Mobile Buscador Oferta Del Día Ficha	2	Mobile	04	Buscador	03	Oferta Del Día	02	Ficha	1
+2040304	Mobile Buscador Oferta Del Día Desplegable Buscador	2	Mobile	04	Buscador	03	Oferta Del Día	04	Desplegable Buscador	1
+2040502	Mobile Buscador GND Ficha	2	Mobile	04	Buscador	05	GND	02	Ficha	1
+2040504	Mobile Buscador GND Desplegable Buscador	2	Mobile	04	Buscador	05	GND	04	Desplegable Buscador	1
+2040604	Mobile Buscador Liquidación Desplegable Buscador	2	Mobile	04	Buscador	06	Liquidación	04	Desplegable Buscador	1
+2040802	Mobile Buscador Herramientas de Venta Ficha	2	Mobile	04	Buscador	08	Herramientas de Venta	02	Ficha	1
+2040804	Mobile Buscador Herramientas de Venta Desplegable Buscador	2	Mobile	04	Buscador	08	Herramientas de Venta	04	Desplegable Buscador	1
+2041104	Mobile Buscador Catalogo Lbel Desplegable Buscador	2	Mobile	04	Buscador	11	Catalogo Lbel	04	Desplegable Buscador	1
+2041204	Mobile Buscador Catalogo Esika Desplegable Buscador	2	Mobile	04	Buscador	12	Catalogo Esika	04	Desplegable Buscador	1
+2041304	Mobile Buscador Catalogo Cyzone Desplegable Buscador	2	Mobile	04	Buscador	13	Catalogo Cyzone	04	Desplegable Buscador	1
+2050102	Mobile Landing Showroom Showroom Ficha	2	Mobile	05	Landing Showroom	01	Showroom	02	Ficha	1
+2050107	Mobile Landing Showroom Showroom Sub Campaña	2	Mobile	05	Landing Showroom	01	Showroom	07	Sub Campaña	1
+2060502	Mobile Landing GND GND Ficha	2	Mobile	06	Landing GND	05	GND	02	Ficha	1
+2070002	Mobile Landing Ofertas Para Ti Ofertas Para Ti Ficha	2	Mobile	07	Landing Ofertas Para Ti	00	Ofertas Para Ti	02	Ficha	1
+2080001	Mobile Contenedor Ofertas Para Ti Carrusel	2	Mobile	08	Contenedor	00	Ofertas Para Ti	01	Carrusel	1
+2080002	Mobile Contenedor Ofertas Para Ti Ficha	2	Mobile	08	Contenedor	00	Ofertas Para Ti	02	Ficha	1
+2080202	Mobile Contenedor Lanzamientos Ficha	2	Mobile	08	Contenedor	02	Lanzamientos	02	Ficha	1
+2080302	Mobile Contenedor Oferta Del Día Ficha	2	Mobile	08	Contenedor	03	Oferta Del Día	02	Ficha	1
+2081402	Mobile Contenedor Ganadoras Ficha	2	Mobile	08	Contenedor	14	Ganadoras	02	Ficha	1
+2090302	Mobile Otras Oferta Del Día Ficha	2	Mobile	09	Otras	03	Oferta Del Día	02	Ficha	1
+2111402	Mobile Landing Ganadoras Ganadoras Ficha	2	Mobile	11	Landing Ganadoras	14	Ganadoras	02	Ficha	1
+4020001	App Consultora Pedido Ofertas Para Ti Carrusel	4	App Consultora	02	Pedido	00	Ofertas Para Ti	01	Carrusel	1
+4020002	App Consultora Pedido Ofertas Para Ti Ficha	4	App Consultora	02	Pedido	00	Ofertas Para Ti	02	Ficha	1
+4020401	App Consultora Pedido Oferta Final Carrusel	4	App Consultora	02	Pedido	04	Oferta Final	01	Carrusel	1
+4020402	App Consultora Pedido Oferta Final Ficha	4	App Consultora	02	Pedido	04	Oferta Final	02	Ficha	1
+40210	App Consultora Pedido Digitado 	4	App Consultora	02	Pedido	10	Digitado			1
+4020701	App Consultora Pedido Producto Sugerido Carrusel	4	App Consultora	02	Pedido	07	Producto Sugerido	01	Carrusel	1
+4050107	App Consultora Landing Showroom Showroom Sub Campaña	4	App Consultora	05	Landing Showroom	01	Showroom	07	Sub Campaña	1
+4060502	App Consultora Landing GND GND Ficha	4	App Consultora	06	Landing GND	05	GND	02	Ficha	1
+1100001	Desktop Landing Buscador Ofertas Para Ti Carrusel	1	Desktop	10	Landing Buscador	00	Ofertas Para Ti	01	Carrusel	1
+1100002	Desktop Landing Buscador Ofertas Para Ti Ficha	1	Desktop	10	Landing Buscador	00	Ofertas Para Ti	02	Ficha	1
+1100101	Desktop Landing Buscador Showroom Carrusel	1	Desktop	10	Landing Buscador	01	Showroom	01	Carrusel	1
+1100102	Desktop Landing Buscador Showroom Ficha	1	Desktop	10	Landing Buscador	01	Showroom	02	Ficha	1
+1100201	Desktop Landing Buscador Lanzamientos Carrusel	1	Desktop	10	Landing Buscador	02	Lanzamientos	01	Carrusel	1
+1100202	Desktop Landing Buscador Lanzamientos Ficha	1	Desktop	10	Landing Buscador	02	Lanzamientos	02	Ficha	1
+1100301	Desktop Landing Buscador Oferta Del Día Carrusel	1	Desktop	10	Landing Buscador	03	Oferta Del Día	01	Carrusel	1
+1100302	Desktop Landing Buscador Oferta Del Día Ficha	1	Desktop	10	Landing Buscador	03	Oferta Del Día	02	Ficha	1
+1100501	Desktop Landing Buscador GND Carrusel	1	Desktop	10	Landing Buscador	05	GND	01	Carrusel	1
+1100502	Desktop Landing Buscador GND Ficha	1	Desktop	10	Landing Buscador	05	GND	02	Ficha	1
+1100601	Desktop Landing Buscador Liquidación Carrusel	1	Desktop	10	Landing Buscador	06	Liquidación	01	Carrusel	1
+1100801	Desktop Landing Buscador Herramientas de Venta Carrusel	1	Desktop	10	Landing Buscador	08	Herramientas de Venta	01	Carrusel	1
+1100802	Desktop Landing Buscador Herramientas de Venta Ficha	1	Desktop	10	Landing Buscador	08	Herramientas de Venta	02	Ficha	1
+1101101	Desktop Landing Buscador Catalogo Lbel Carrusel	1	Desktop	10	Landing Buscador	11	Catalogo Lbel	01	Carrusel	1
+1101201	Desktop Landing Buscador Catalogo Esika Carrusel	1	Desktop	10	Landing Buscador	12	Catalogo Esika	01	Carrusel	1
+1101301	Desktop Landing Buscador Catalogo Cyzone Carrusel	1	Desktop	10	Landing Buscador	13	Catalogo Cyzone	01	Carrusel	1
+2100001	Mobile Landing Buscador Ofertas Para Ti Carrusel	2	Mobile	10	Landing Buscador	00	Ofertas Para Ti	01	Carrusel	1
+2100002	Mobile Landing Buscador Ofertas Para Ti Ficha	2	Mobile	10	Landing Buscador	00	Ofertas Para Ti	02	Ficha	1
+2100101	Mobile Landing Buscador Showroom Carrusel	2	Mobile	10	Landing Buscador	01	Showroom	01	Carrusel	1
+2100102	Mobile Landing Buscador Showroom Ficha	2	Mobile	10	Landing Buscador	01	Showroom	02	Ficha	1
+2100201	Mobile Landing Buscador Lanzamientos Carrusel	2	Mobile	10	Landing Buscador	02	Lanzamientos	01	Carrusel	1
+2100202	Mobile Landing Buscador Lanzamientos Ficha	2	Mobile	10	Landing Buscador	02	Lanzamientos	02	Ficha	1
+2100301	Mobile Landing Buscador Oferta Del Día Carrusel	2	Mobile	10	Landing Buscador	03	Oferta Del Día	01	Carrusel	1
+2100302	Mobile Landing Buscador Oferta Del Día Ficha	2	Mobile	10	Landing Buscador	03	Oferta Del Día	02	Ficha	1
+2100501	Mobile Landing Buscador GND Carrusel	2	Mobile	10	Landing Buscador	05	GND	01	Carrusel	1
+2100502	Mobile Landing Buscador GND Ficha	2	Mobile	10	Landing Buscador	05	GND	02	Ficha	1
+2100601	Mobile Landing Buscador Liquidación Carrusel	2	Mobile	10	Landing Buscador	06	Liquidación	01	Carrusel	1
+2100801	Mobile Landing Buscador Herramientas de Venta Carrusel	2	Mobile	10	Landing Buscador	08	Herramientas de Venta	01	Carrusel	1
+2100802	Mobile Landing Buscador Herramientas de Venta Ficha	2	Mobile	10	Landing Buscador	08	Herramientas de Venta	02	Ficha	1
+2101101	Mobile Landing Buscador Catalogo Lbel Carrusel	2	Mobile	10	Landing Buscador	11	Catalogo Lbel	01	Carrusel	1
+2101201	Mobile Landing Buscador Catalogo Esika Carrusel	2	Mobile	10	Landing Buscador	12	Catalogo Esika	01	Carrusel	1
+2101301	Mobile Landing Buscador Catalogo Cyzone Carrusel	2	Mobile	10	Landing Buscador	13	Catalogo Cyzone	01	Carrusel	1
+1021501	Desktop Pedido Producto Recomendado Carrusel	1	Desktop	02	Pedido	15	Producto Recomendado	01	Carrusel	1
+2021501	Mobile Pedido Producto Recomendado Carrusel	2	Mobile	02	Pedido	15	Producto Recomendado	01	Carrusel	1
+4030601	App Consultora Landing Liquidación Liquidación Carrusel	4	App Consultora	03	Landing Liquidación	06	Liquidación	01	Carrusel	1
+51211	App Maquillador Maquillador Catalogo Lbel	5	App Maquillador	12	Maquillador	11	Catalogo Lbel			1
+51212	App Maquillador Maquillador Catalogo Esika	5	App Maquillador	12	Maquillador	12	Catalogo Esika			1
+51213	App Maquillador Maquillador Catalogo Cyzone	5	App Maquillador	12	Maquillador	13	Catalogo Cyzone			1
+1021110	Desktop Pedido Catalogo Lbel App Catálogo Pendiente de Aprobar	1	Desktop	02	Pedido	11	Catalogo Lbel	10	App Catálogo Pendiente de Aprobar	1
+1021210	Desktop Pedido Catalogo Esika App Catálogo Pendiente de Aprobar	1	Desktop	02	Pedido	12	Catalogo Esika	10	App Catálogo Pendiente de Aprobar	1
+1021310	Desktop Pedido Catalogo Cyzone App Catálogo Pendiente de Aprobar	1	Desktop	02	Pedido	13	Catalogo Cyzone	10	App Catálogo Pendiente de Aprobar	1
+2021110	Mobile Pedido Catalogo Lbel App Catálogo Pendiente de Aprobar	2	Mobile	02	Pedido	11	Catalogo Lbel	10	App Catálogo Pendiente de Aprobar	1
+2021210	Mobile Pedido Catalogo Esika App Catálogo Pendiente de Aprobar	2	Mobile	02	Pedido	12	Catalogo Esika	10	App Catálogo Pendiente de Aprobar	1
+2021310	Mobile Pedido Catalogo Cyzone App Catálogo Pendiente de Aprobar	2	Mobile	02	Pedido	13	Catalogo Cyzone	10	App Catálogo Pendiente de Aprobar	1
+4021110	App Pedido Catalogo Lbel App Catálogo Pendiente de Aprobar	4	App	02	Pedido	11	Catalogo Lbel	10	App Catálogo Pendiente de Aprobar	1
+4021210	App Pedido Catalogo Esika App Catálogo Pendiente de Aprobar	4	App	02	Pedido	12	Catalogo Esika	10	App Catálogo Pendiente de Aprobar	1
+4021310	App Pedido Catalogo Cyzone App Catálogo Pendiente de Aprobar	4	App	02	Pedido	13	Catalogo Cyzone	10	App Catálogo Pendiente de Aprobar	1
+1021111	Desktop Pedido Catalogo Lbel Catálogo Digital Pendiente de Aprobar	1	Desktop	02	Pedido	11	Catalogo Lbel	11	Catálogo Digital Pendiente de Aprobar	1
+1021211	Desktop Pedido Catalogo Esika Catálogo Digital Pendiente de Aprobar	1	Desktop	02	Pedido	12	Catalogo Esika	11	Catálogo Digital Pendiente de Aprobar	1
+1021311	Desktop Pedido Catalogo Cyzone Catálogo Digital Pendiente de Aprobar	1	Desktop	02	Pedido	13	Catalogo Cyzone	11	Catálogo Digital Pendiente de Aprobar	1
+2021111	Mobile Pedido Catalogo Lbel Catálogo Digital Pendiente de Aprobar	2	Mobile	02	Pedido	11	Catalogo Lbel	11	Catálogo Digital Pendiente de Aprobar	1
+2021211	Mobile Pedido Catalogo Esika Catálogo Digital Pendiente de Aprobar	2	Mobile	02	Pedido	12	Catalogo Esika	11	Catálogo Digital Pendiente de Aprobar	1
+2021311	Mobile Pedido Catalogo Cyzone Catálogo Digital Pendiente de Aprobar	2	Mobile	02	Pedido	13	Catalogo Cyzone	11	Catálogo Digital Pendiente de Aprobar	1
+4021111	App Pedido Catalogo Lbel Catálogo Digital Pendiente de Aprobar	4	App	02	Pedido	11	Catalogo Lbel	11	Catálogo Digital Pendiente de Aprobar	1
+4021211	App Pedido Catalogo Esika Catálogo Digital Pendiente de Aprobar	4	App	02	Pedido	12	Catalogo Esika	11	Catálogo Digital Pendiente de Aprobar	1
+4021311	App Pedido Catalogo Cyzone Catálogo Digital Pendiente de Aprobar	4	App	02	Pedido	13	Catalogo Cyzone	11	Catálogo Digital Pendiente de Aprobar	1
+1041404	Desktop Buscador Ganadoras Desplegable Buscador	1	Desktop	04	Buscador	14	Ganadoras	04	Desplegable Buscador	1
+1041402	Desktop Buscador Ganadoras Ficha	1	Desktop	04	Buscador	14	Ganadoras	02	Ficha	1
+2041404	Mobile Buscador Ganadoras Desplegable Buscador	2	Mobile	04	Buscador	14	Ganadoras	04	Desplegable Buscador	1
+2041402	Mobile Buscador Ganadoras Ficha	2	Mobile	04	Buscador	14	Ganadoras	02	Ficha	1
+1101401	Desktop Landing Buscador Ganadoras Carrusel	1	Desktop	10	Landing Buscador	14	Ganadoras	01	Carrusel	1
+1101402	Desktop Landing Buscador Ganadoras Ficha	1	Desktop	10	Landing Buscador	14	Ganadoras	02	Ficha	1
+2101401	Mobile Landing Buscador Ganadoras Carrusel	2	Mobile	10	Landing Buscador	14	Ganadoras	01	Carrusel	1
+2101402	Mobile Landing Buscador Ganadoras Ficha	2	Mobile	10	Landing Buscador	14	Ganadoras	02	Ficha	1
+1020008	Desktop Pedido Ofertas Para Ti Carrusel Recomendado	1	Desktop	02	Pedido	00	Ofertas Para Ti	08	Carrusel Recomendado	1
+1020108	Desktop Pedido Showroom Carrusel Recomendado	1	Desktop	02	Pedido	01	Showroom	08	Carrusel Recomendado	1
+1020208	Desktop Pedido Lanzamientos Carrusel Recomendado	1	Desktop	02	Pedido	02	Lanzamientos	08	Carrusel Recomendado	1
+1020308	Desktop Pedido Oferta Del Día Carrusel Recomendado	1	Desktop	02	Pedido	03	Oferta Del Día	08	Carrusel Recomendado	1
+1020808	Desktop Pedido Herramientas de Venta Carrusel Recomendado	1	Desktop	02	Pedido	08	Herramientas de Venta	08	Carrusel Recomendado	1
+1021408	Desktop Pedido Ganadoras Carrusel Recomendado	1	Desktop	02	Pedido	14	Ganadoras	08	Carrusel Recomendado	1
+2020008	Mobile Pedido Ofertas Para Ti Carrusel Recomendado	2	Mobile	02	Pedido	00	Ofertas Para Ti	08	Carrusel Recomendado	1
+2020108	Mobile Pedido Showroom Carrusel Recomendado	2	Mobile	02	Pedido	01	Showroom	08	Carrusel Recomendado	1
+2020208	Mobile Pedido Lanzamientos Carrusel Recomendado	2	Mobile	02	Pedido	02	Lanzamientos	08	Carrusel Recomendado	1
+2020308	Mobile Pedido Oferta Del Día Carrusel Recomendado	2	Mobile	02	Pedido	03	Oferta Del Día	08	Carrusel Recomendado	1
+2020808	Mobile Pedido Herramientas de Venta Carrusel Recomendado	2	Mobile	02	Pedido	08	Herramientas de Venta	08	Carrusel Recomendado	1
+2021408	Mobile Pedido Ganadoras Carrusel Recomendado	2	Mobile	02	Pedido	14	Ganadoras	08	Carrusel Recomendado	1
+1020009	Desktop Pedido Ofertas Para Ti Ficha Recomendada	1	Desktop	02	Pedido	00	Ofertas Para Ti	09	Ficha Recomendada	1
+1020109	Desktop Pedido Showroom Ficha Recomendada	1	Desktop	02	Pedido	01	Showroom	09	Ficha Recomendada	1
+1020209	Desktop Pedido Lanzamientos Ficha Recomendada	1	Desktop	02	Pedido	02	Lanzamientos	09	Ficha Recomendada	1
+1020309	Desktop Pedido Oferta Del Día Ficha Recomendada	1	Desktop	02	Pedido	03	Oferta Del Día	09	Ficha Recomendada	1
+1020809	Desktop Pedido Herramientas de Venta Ficha Recomendada	1	Desktop	02	Pedido	08	Herramientas de Venta	09	Ficha Recomendada	1
+1021409	Desktop Pedido Ganadoras Ficha Recomendada	1	Desktop	02	Pedido	14	Ganadoras	09	Ficha Recomendada	1
+2020009	Mobile Pedido Ofertas Para Ti Ficha Recomendada	2	Mobile	02	Pedido	00	Ofertas Para Ti	09	Ficha Recomendada	1
+2020109	Mobile Pedido Showroom Ficha Recomendada	2	Mobile	02	Pedido	01	Showroom	09	Ficha Recomendada	1
+2020209	Mobile Pedido Lanzamientos Ficha Recomendada	2	Mobile	02	Pedido	02	Lanzamientos	09	Ficha Recomendada	1
+2020309	Mobile Pedido Oferta Del Día Ficha Recomendada	2	Mobile	02	Pedido	03	Oferta Del Día	09	Ficha Recomendada	1
+2020809	Mobile Pedido Herramientas de Venta Ficha Recomendada	2	Mobile	02	Pedido	08	Herramientas de Venta	09	Ficha Recomendada	1
+2021409	Mobile Pedido Ganadoras Ficha Recomendada	2	Mobile	02	Pedido	14	Ganadoras	09	Ficha Recomendada	1
+2080102	Mobile Contenedor Showroom Ficha	2	Mobile	8	Contenedor	1	Showroom	2	Ficha	1
+1010302	Desktop Home Oferta Del Dia Ficha	1	Desktop	01	Home	03	Oferta Del Día	02	Ficha	1
+4080301	App Consultora Contenedor Oferta Del Día Carrusel	4	App Consultora	08	Contenedor	03	Oferta del día	01	Carrusel	1
+4080101	App Consultora Contenedor Showroom Carrusel	4	App Consultora	08	Contenedor	01	Showroom	01	Carrusel	1
+4080001	App Consultora Contenedor Ofertas Para Ti Carrusel	4	App Consultora	08	Contenedor	00	Ofertas para Ti	01	Carrusel	1
+4081401	App Consultora Contenedor Ganadoras Carrusel	4	App Consultora	08	Contenedor	14	Ganadoras	01	Carrusel	1
+4080801	App Consultora Contenedor Herramientas de Venta Carrusel	4	App Consultora	08	Contenedor	08	Herramientas de venta	01	Carrusel	1
+4160301	App Consultora Landing Oferta Del Día Oferta Del Día Carrusel	4	App Consultora	16	Landing Oferta Del Día	03	Oferta del día	01	Carrusel	1
+4050101	App Consultora Landing Showroom Showroom Carrusel	4	App Consultora	05	Landing Showroom	01	Showroom	01	Carrusel	1
+4070001	App Consultora Landing Ofertas Para Ti Ofertas Para Ti Carrusel	4	App Consultora	07	Landing Ofertas Para Ti	00	Ofertas Para Ti	01	Carrusel	1
+4111401	App Consultora Landing Ganadoras Ganadoras Carrusel	4	App Consultora	11	Landing Ganadoras	14	Ganadoras	01	Carrusel	1
+4000801	App Consultora Landing Herramientas de Venta Herramientas de Venta Carrusel	4	App Consultora	00	Landing Herramientas de Venta	08	Herramientas de Venta	01	Carrusel	1
+4170301	App Consultora Landing Categoría Oferta Del Día Carrusel	4	App Consultora	17	Landing Categoría	03	Oferta Del Día	01	Carrusel	1
+4170101	App Consultora Landing Categoría Showroom Carrusel	4	App Consultora	17	Landing Categoría	01	Showroom	01	Carrusel	1
+4170001	App Consultora Landing Categoría Ofertas Para Ti Carrusel	4	App Consultora	17	Landing Categoría	00	Ofertas Para Ti	01	Carrusel	1
+4171401	App Consultora Landing Categoría Ganadoras Carrusel	4	App Consultora	17	Landing Categoría	14	Ganadoras	01	Carrusel	1
+4170801	App Consultora Landing Categoría Herramientas de Venta Carrusel	4	App Consultora	17	Landing Categoría	08	Herramientas de Venta	01	Carrusel	1
+4170201	App Consultora Landing Categoría Lanzamientos Carrusel	4	App Consultora	17	Landing Categoría	02	Lanzamientos	01	Carrusel	1
+4080302	App Consultora Contenedor Oferta Del Día Ficha	4	App Consultora	08	Contenedor	03	Oferta Del Día	02	Ficha	1
+4080102	App Consultora Contenedor Showroom Ficha	4	App Consultora	08	Contenedor	01	Showroom	02	Ficha	1
+4080002	App Consultora Contenedor Ofertas Para Ti Ficha	4	App Consultora	08	Contenedor	00	Ofertas Para Ti	02	Ficha	1
+4081402	App Consultora Contenedor Ganadoras Ficha	4	App Consultora	08	Contenedor	14	Ganadoras	02	Ficha	1
+4080802	App Consultora Contenedor Herramientas de Venta Ficha	4	App Consultora	08	Contenedor	08	Herramientas de Venta	02	Ficha	1
+4080202	App Consultora Contenedor Lanzamientos Ficha	4	App Consultora	08	Contenedor	02	Lanzamientos	02	Ficha	1
+4160302	App Consultora Landing Oferta Del Día Oferta Del Día Ficha	4	App Consultora	16	Landing Oferta Del Día	03	Oferta Del Día	02	Ficha	1
+4050102	App Consultora Landing Showroom Showroom Ficha	4	App Consultora	05	Landing Showroom	01	Showroom	02	Ficha	1
+4070002	App Consultora Landing Ofertas Para Ti Ofertas Para Ti Ficha	4	App Consultora	07	Landing Ofertas Para Ti	00	Ofertas Para Ti	02	Ficha	1
+4111402	App Consultora Landing Ganadoras Ganadoras Ficha	4	App Consultora	11	Landing Ganadoras	14	Ganadoras	02	Ficha	1
+4000802	App Consultora Landing Herramientas de Venta Herramientas de Venta Ficha	4	App Consultora	00	Landing Herramientas de Venta	08	Herramientas de Venta	02	Ficha	1
+4170302	App Consultora Landing Categoría Oferta Del Día Ficha	4	App Consultora	17	Landing Categoría	03	Oferta Del Día	02	Ficha	1
+4170102	App Consultora Landing Categoría Showroom Ficha	4	App Consultora	17	Landing Categoría	01	Showroom	02	Ficha	1
+4170002	App Consultora Landing Categoría Ofertas Para Ti Ficha	4	App Consultora	17	Landing Categoría	00	Ofertas Para Ti	02	Ficha	1
+4171402	App Consultora Landing Categoría Ganadoras Ficha	4	App Consultora	17	Landing Categoría	14	Ganadoras	02	Ficha	1
+4170802	App Consultora Landing Categoría Herramientas de Venta Ficha	4	App Consultora	17	Landing Categoría	08	Herramientas de Venta	02	Ficha	1
+4170202	App Consultora Landing Categoría Lanzamientos Ficha	4	App Consultora	17	Landing Categoría	02	Lanzamientos	02	Ficha	1
+4080305	App Consultora Contenedor Oferta Del Día Carrusel Ver Más	4	App Consultora	08	Contenedor	03	Oferta Del Día	05	Carrusel Ver Más	1
+4080105	App Consultora Contenedor Showroom Carrusel Ver Más	4	App Consultora	08	Contenedor	01	Showroom	05	Carrusel Ver Más	1
+4080205	App Consultora Contenedor Lanzamientos Carrusel Ver Más	4	App Consultora	08	Contenedor	02	Lanzamientos	05	Carrusel Ver Más	1
+4160305	App Consultora Landing Oferta Del Día Oferta Del Día Carrusel Ver Más	4	App Consultora	16	Landing Oferta Del Día	03	Oferta Del Día	05	Carrusel Ver Más	1
+4050105	App Consultora Landing Showroom Showroom Carrusel Ver Más	4	App Consultora	05	Landing Showroom	01	Showroom	05	Carrusel Ver Más	1
+4170305	App Consultora Landing Categoría Oferta Del Día Carrusel Ver Más	4	App Consultora	17	Landing Categoría	03	Oferta Del Día	05	Carrusel Ver Más	1
+4170105	App Consultora Landing Categoría Showroom Carrusel Ver Más	4	App Consultora	17	Landing Categoría	01	Showroom	05	Carrusel Ver Más	1
+4170205	App Consultora Landing Categoría Lanzamientos Carrusel Ver Más	4	App Consultora	17	Landing Categoría	02	Lanzamientos	05	Carrusel Ver Más	1
+1141601	Desktop Landing Dúo Perfecto Carrusel	1	Desktop	14	Landing Dúo Perfecto	16	Dúo Perfecto	01	Carrusel	1
+1141602	Desktop Landing Dúo Perfecto Ficha	1	Desktop	14	Landing Dúo Perfecto	16	Dúo Perfecto	02	Ficha	1
+1011601	Desktop Home Dúo Perfecto Carrusel	1	Desktop	01	Home	16	Dúo Perfecto	01	Carrusel	1
+1011602	Desktop Home Dúo Perfecto Ficha	1	Desktop	01	Home	16	Dúo Perfecto	02	Ficha	1
+1021601	Desktop Pedido Dúo Perfecto Carrusel	1	Desktop	02	Pedido	16	Dúo Perfecto	01	Carrusel	1
+1021602	Desktop Pedido Dúo Perfecto Ficha	1	Desktop	02	Pedido	16	Dúo Perfecto	02	Ficha	1
+2141601	Mobile Landing Dúo Perfecto Carrusel	2	Mobile	14	Landing Dúo Perfecto	16	Dúo Perfecto	01	Carrusel	1
+2141602	Mobile Landing Dúo Perfecto Ficha	2	Mobile	14	Landing Dúo Perfecto	16	Dúo Perfecto	02	Ficha	1
+2011601	Mobile Home Dúo Perfecto Carrusel	2	Mobile	01	Home	16	Dúo Perfecto	01	Carrusel	1
+2011602	Mobile Home Dúo Perfecto Ficha	2	Mobile	01	Home	16	Dúo Perfecto	02	Ficha	1
+2021601	Mobile Pedido Dúo Perfecto Carrusel	2	Mobile	02	Pedido	16	Dúo Perfecto	01	Carrusel	1
+2021602	Mobile Pedido Dúo Perfecto Ficha	2	Mobile	02	Pedido	16	Dúo Perfecto	02	Ficha	1
+4141601	App Consultora Landing Dúo Perfecto Carrusel	4	App Consultora	14	Landing Dúo Perfecto	16	Dúo Perfecto	01	Carrusel	1
+4141602	App Consultora Landing Dúo Perfecto Ficha	4	App Consultora	14	Landing Dúo Perfecto	16	Dúo Perfecto	02	Ficha	1
+4011601	App Consultora Home Dúo Perfecto Carrusel	4	App Consultora	01	Home	16	Dúo Perfecto	01	Carrusel	1
+4011602	App Consultora Home Dúo Perfecto Ficha	4	App Consultora	01	Home	16	Dúo Perfecto	02	Ficha	1
+4021601	App Consultora Pedido Dúo Perfecto Carrusel	4	App Consultora	02	Pedido	16	Dúo Perfecto	01	Carrusel	1
+4021602	App Consultora Pedido Dúo Perfecto Ficha	4	App Consultora	02	Pedido	16	Dúo Perfecto	02	Ficha	1
+1151701	Desktop Landing Pack de Nuevas Carrusel	1	Desktop	15	Landing Pack de Nuevas	17	Pack de Nuevas	01	Carrusel	1
+1151702	Desktop Landing Pack de Nuevas Ficha	1	Desktop	15	Landing Pack de Nuevas	17	Pack de Nuevas	02	Ficha	1
+1011701	Desktop Home Pack de Nuevas Carrusel	1	Desktop	01	Home	17	Pack de Nuevas	01	Carrusel	1
+1011702	Desktop Home Pack de Nuevas Ficha	1	Desktop	01	Home	17	Pack de Nuevas	02	Ficha	1
+1021701	Desktop Pedido Pack de Nuevas Carrusel	1	Desktop	02	Pedido	17	Pack de Nuevas	01	Carrusel	1
+1021702	Desktop Pedido Pack de Nuevas Ficha	1	Desktop	02	Pedido	17	Pack de Nuevas	02	Ficha	1
+2151701	Mobile Landing Pack de Nuevas Carrusel	2	Mobile	15	Landing Pack de Nuevas	17	Pack de Nuevas	01	Carrusel	1
+2151702	Mobile Landing Pack de Nuevas Ficha	2	Mobile	15	Landing Pack de Nuevas	17	Pack de Nuevas	02	Ficha	1
+2011701	Mobile Home Pack de Nuevas Carrusel	2	Mobile	01	Home	17	Pack de Nuevas	01	Carrusel	1
+2011702	Mobile Home Pack de Nuevas Ficha	2	Mobile	01	Home	17	Pack de Nuevas	02	Ficha	1
+2021701	Mobile Pedido Pack de Nuevas Carrusel	2	Mobile	02	Pedido	17	Pack de Nuevas	01	Carrusel	1
+2021702	Mobile Pedido Pack de Nuevas Ficha	2	Mobile	02	Pedido	17	Pack de Nuevas	02	Ficha	1
+4151701	App Consultora Landing Pack de Nuevas Carrusel	4	App Consultora	15	Landing Pack de Nuevas	17	Pack de Nuevas	01	Carrusel	1
+4151702	App Consultora Landing Pack de Nuevas Ficha	4	App Consultora	15	Landing Pack de Nuevas	17	Pack de Nuevas	02	Ficha	1
+4011701	App Consultora Home Pack de Nuevas Carrusel	4	App Consultora	01	Home	17	Pack de Nuevas	01	Carrusel	1
+4011702	App Consultora Home Pack de Nuevas Ficha	4	App Consultora	01	Home	17	Pack de Nuevas	02	Ficha	1
+4021701	App Consultora Pedido Pack de Nuevas Carrusel	4	App Consultora	02	Pedido	17	Pack de Nuevas	01	Carrusel	1
+4021702	App Consultora Pedido Pack de Nuevas Ficha	4	App Consultora	02	Pedido	17	Pack de Nuevas	02	Ficha	1
+2080101	Mobile Contenedor Showroom Carrusel	2	Mobile	08	Contenedor	01	Showroom	01	Carrusel	1
+4131502	App Consultora Landing Arma Tu Pack Arma Tu Pack Ficha	4	App Consultora	13	Landing Arma Tu Pack	15	Arma Tu Pack	02	Ficha	1
+1131502	Desktop Landing Arma Tu Pack Arma Tu Pack Ficha	1	Desktop	13	Landing Arma Tu Pack	15	Arma Tu Pack	05	Ficha	1
+2131502	Mobile Landing Arma Tu Pack Arma Tu Pack Ficha	2	Mobile	13	Landing Arma Tu Pack	15	Arma Tu Pack	05	Ficha	1
+4040604	App Consultora Buscador Liquidación Desplegable Buscador	4	App Consultora	04	Buscador	06	Liquidación	04	Desplegable Buscador	1
+4100601	App Consultora Landing Buscador Liquidación Landing Buscador	4	App Consultora	10	Buscador	06	Liquidación	01	Carrusel	1
+4041104	App Consultora Buscador Catalogo Lbel Desplegable Buscador	4	App Consultora	04	Buscador	11	Catalogo Lbel	04	Desplegable Buscador	1
+4101101	App Consultora Landing Buscador Catalogo Lbel Landing Buscador	4	App Consultora	10	Landing Buscador	11	Catalogo Lbel	01	Carrusel	1
+4041204	App Consultora Buscador Catalogo Esika Desplegable Buscador	4	App Consultora	04	Buscador	12	Catalogo Esika	04	Desplegable Buscador	1
+4101201	App Consultora Landing Buscador Catalogo Esika Landing Buscador	4	App Consultora	10	Landing Buscador	12	Catalogo Esika	04	Carrusel	1
+4041304	App Consultora Buscador Catalogo Cyzone Desplegable Buscador	4	App Consultora	04	Buscador	13	Catalogo Cyzone	04	Desplegable Buscador	1
+4101301	App Consultora Landing Buscador Catalogo Cyzone Landing Buscador	4	App Consultora	10	Landing Buscador	13	Catalogo Cyzone	04	Carrusel	1
+4040104	App Consultora Buscador Showroom Desplegable Buscador	4	App Consultora	04	Buscador	01	Showroom	04	Desplegable Buscador	1
+4040102	App Consultora Buscador Showroom Ficha	4	App Consultora	04	Buscador	01	Showroom	02	Ficha	1
+4100101	App Consultora Landing Buscador Showroom Carrusel	4	App Consultora	10	Landing Buscador	01	Showroom	01	Carrusel	1
+4100102	App Consultora Landing Buscador Showroom Ficha	4	App Consultora	10	Landing Buscador	01	Showroom	02	Ficha	1
+4040204	App Consultora Buscador Lanzamientos Desplegable Buscador	4	App Consultora	04	Buscador	02	Lanzamientos	04	Desplegable Buscador	1
+4040202	App Consultora Buscador Lanzamientos Ficha	4	App Consultora	04	Buscador	02	Lanzamientos	02	Ficha	1
+4100201	App Consultora Landing Buscador Lanzamientos Carrusel	4	App Consultora	10	Landing Buscador	02	Lanzamientos	01	Carrusel	1
+4100202	App Consultora Landing Buscador Lanzamientos Ficha	4	App Consultora	10	Landing Buscador	02	Lanzamientos	02	Ficha	1
+4040304	App Consultora Buscador Oferta Del Día Desplegable Buscador	4	App Consultora	04	Buscador	03	Oferta Del Día	04	Desplegable Buscador	1
+4040302	App Consultora Buscador Oferta Del Día Ficha	4	App Consultora	04	Buscador	03	Oferta Del Día	02	Ficha	1
+4100301	App Consultora Landing Buscador Oferta Del Día Carrusel	4	App Consultora	10	Landing Buscador	03	Oferta Del Día	01	Carrusel	1
+4100302	App Consultora Landing Buscador Oferta Del Día Ficha	4	App Consultora	10	Landing Buscador	03	Oferta Del Día	02	Ficha	1
+4040504	App Consultora Buscador GND Desplegable Buscador	4	App Consultora	04	Buscador	05	GND	04	Desplegable Buscador	1
+4040502	App Consultora Buscador GND Ficha	4	App Consultora	04	Buscador	05	GND	02	Ficha	1
+4100501	App Consultora Landing Buscador GND Carrusel	4	App Consultora	10	Landing Buscador	05	GND	01	Carrusel	1
+4100502	App Consultora Landing Buscador GND Ficha	4	App Consultora	10	Landing Buscador	05	GND	02	Ficha	1
+4040804	App Consultora Buscador Herramientas de Venta Desplegable Buscador	4	App Consultora	04	Buscador	08	Herramientas de Venta	04	Desplegable Buscador	1
+4040802	App Consultora Buscador Herramientas de Venta Ficha	4	App Consultora	04	Buscador	08	Herramientas de Venta	02	Ficha	1
+4100801	App Consultora Landing Buscador Herramientas de Venta Carrusel	4	App Consultora	10	Landing Buscador	08	Herramientas de Venta	01	Carrusel	1
+4100802	App Consultora Landing Buscador Herramientas de Venta Ficha	4	App Consultora	10	Landing Buscador	08	Herramientas de Venta	02	Ficha	1
+4041404	App Consultora Buscador Ganadoras Desplegable Buscador	4	App Consultora	04	Buscador	14	Ganadoras	04	Desplegable Buscador	1
+4041402	App Consultora Buscador Ganadoras Ficha	4	App Consultora	04	Buscador	14	Ganadoras	02	Ficha	1
+4101401	App Consultora Landing Buscador Ganadoras Carrusel	4	App Consultora	10	Landing Buscador	14	Ganadoras	01	Carrusel	1
+4101402	App Consultora Landing Buscador Ganadoras Ficha	4	App Consultora	10	Landing Buscador	14	Ganadoras	02	Ficha	1
+4040004	App Consultora Buscador Ofertas Para Ti Desplegable Buscador	4	App Consultora	04	Buscador	00	Ofertas Para Ti	04	Desplegable Buscador	1
+4040002	App Consultora Buscador Ofertas Para Ti Ficha	4	App Consultora	04	Buscador	00	Ofertas Para Ti	02	Ficha	1
+4100001	App Consultora Landing Buscador Ofertas Para Ti Carrusel	4	App Consultora	10	Landing Buscador	00	Ofertas Para Ti	01	Carrusel	1
+4100002	App Consultora Landing Buscador Ofertas Para Ti Ficha	4	App Consultora	10	Landing Buscador	00	Ofertas Para Ti	02	Ficha	1
+4040105	App Consultora Buscador Showroom Carrusel Ver Más	4	App Consultora	04	Buscador	01	Showroom	05	Carrusel Ver Más	1
+4040305	App Consultora Buscador Oferta Del Día Carrusel Ver Más	4	App Consultora	04	Buscador	03	Oferta Del Día	05	Carrusel Ver Más	1
+4040205	App Consultora Buscador Lanzamientos Carrusel Ver Más	4	App Consultora	04	Buscador	02	Lanzamientos	05	Carrusel Ver Más	1
+4100105	App Consultora Landing Buscador Showroom Carrusel Ver Más	4	App Consultora	10	Landing Buscador	01	Showroom	05	Carrusel Ver Más	1
+4100305	App Consultora Landing Buscador Ofertas Para Ti Carrusel Ver Más	4	App Consultora	10	Landing Buscador	03	Oferta Del Día	05	Carrusel Ver Más	1
+4100205	App Consultora Landing Buscador Lanzamientos Carrusel Ver Más	4	App Consultora	10	Landing Buscador	02	Lanzamientos	05	Carrusel Ver Más	1
+4190015	App Consultora Ficha Ofertas Para Ti Carrusel Upselling	4	App Consultora	19	Ficha	00	Ofertas Para Ti	15	Carrusel Upselling	1
+4190115	App Consultora Ficha Showroom Carrusel Upselling	4	App Consultora	19	Ficha	01	Showroom	15	Carrusel Upselling	1
+4190315	App Consultora Ficha Oferta Del Día Carrusel Upselling	4	App Consultora	19	Ficha	03	Oferta Del Día	15	Carrusel Upselling	1
+4191415	App Consultora Ficha Ganadoras Carrusel Upselling	4	App Consultora	19	Ficha	14	Ganadoras	15	Carrusel Upselling	1
+4190016	App Consultora Ficha Ofertas Para Ti Ficha Upselling	4	App Consultora	19	Ficha	00	Ofertas Para Ti	16	Ficha Upselling	1
+4190116	App Consultora Showroom Ficha Upselling	4	App Consultora	19	Ficha	01	Showroom	16	Ficha Upselling	1
+4190316	App Consultora Oferta Del Día Ficha Upselling	4	App Consultora	19	Ficha	03	Oferta Del Día	16	Ficha Upselling	1
+4191416	App Consultora Ganadoras Ficha Upselling	4	App Consultora	19	Ficha	14	Ganadoras	16	Ficha Upselling	1
+1190015	Desktop Ficha Ofertas Para Ti Carrusel Upselling	1	Desktop	19	Ficha	00	Ofertas Para Ti	15	Carrusel Upselling	1
+1190115	Desktop Ficha Showroom Carrusel Upselling	1	Desktop	19	Ficha	01	Showroom	15	Carrusel Upselling	1
+1190215	Desktop Ficha Lanzamientos Carrusel Upselling	1	Desktop	19	Ficha	02	Lanzamientos	15	Carrusel Upselling	1
+1190315	Desktop Ficha Oferta Del Día Carrusel Upselling	1	Desktop	19	Ficha	03	Oferta Del Día	15	Carrusel Upselling	1
+1191415	Desktop Ficha Ganadoras Carrusel Upselling	1	Desktop	19	Ficha	14	Ganadoras	15	Carrusel Upselling	1
+2190015	Mobile Ficha Ofertas Para Ti Carrusel Upselling	2	Desktop	19	Ficha	00	Ofertas Para Ti	15	Carrusel Upselling	1
+2190115	Mobile Ficha Showroom Carrusel Upselling	2	Desktop	19	Ficha	01	Showroom	15	Carrusel Upselling	1
+2190215	Mobile Ficha Lanzamientos Carrusel Upselling	2	Desktop	19	Ficha	02	Lanzamientos	15	Carrusel Upselling	1
+2190315	Mobile Ficha Oferta Del Día Carrusel Upselling	2	Desktop	19	Ficha	03	Oferta Del Día	15	Carrusel Upselling	1
+2191415	Mobile Ficha Ganadoras Carrusel Upselling	2	Desktop	19	Ficha	14	Ganadoras	15	Carrusel Upselling	1
+1190016	Desktop Ficha Ofertas Para Ti Ficha Upselling	1	Desktop	19	Ficha	00	Ofertas Para Ti	16	Ficha Upselling	1
+1190116	Desktop Ficha Showroom Ficha Upselling	1	Desktop	19	Ficha	01	Showroom	16	Ficha Upselling	1
+1190216	Desktop Ficha Lanzamientos Ficha Upselling	1	Desktop	19	Ficha	02	Lanzamientos	16	Ficha Upselling	1
+1190316	Desktop Ficha Oferta Del Día Ficha Upselling	1	Desktop	19	Ficha	03	Oferta Del Día	16	Ficha Upselling	1
+1191416	Desktop Ficha Ganadoras Ficha Upselling	1	Desktop	19	Ficha	14	Ganadoras	16	Ficha Upselling	1
+2190016	Mobile Ficha Ofertas Para Ti Ficha Upselling	2	Desktop	19	Ficha	00	Ofertas Para Ti	16	Ficha Upselling	1
+2190116	Mobile Ficha Showroom Ficha Upselling	2	Desktop	19	Ficha	01	Showroom	16	Ficha Upselling	1
+2190216	Mobile Ficha Lanzamientos Ficha Upselling	2	Desktop	19	Ficha	02	Lanzamientos	16	Ficha Upselling	1
+2190316	Mobile Ficha Oferta Del Día Ficha Upselling	2	Desktop	19	Ficha	03	Oferta Del Día	16	Ficha Upselling	1
+2191416	Mobile Ficha Ganadoras Ficha Upselling	2	Desktop	19	Ficha	14	Ganadoras	16	Ficha Upselling	1
+4190215	App Consultora Ficha Ofertas Para Ti Carrusel Upselling	4	App Consultora	19	Ficha	02	Lanzamientos	15	Carrusel Upselling	1
+4190216	App Consultora Ganadoras Ficha Upselling	4	App Consultora	19	Ficha	02	Lanzamientos	16	Ficha Upselling	1
+4041102	App Consultora Buscador Catalogo Lbel Ficha	4	App Consultora	04	Buscador	11	Catalogo Lbel	02	Ficha	1
+4041202	App Consultora Buscador Catalogo Esika Ficha	4	App Consultora	04	Buscador	12	Catalogo Esika	02	Ficha	1
+4041302	App Consultora Buscador Catalogo Cyzone Ficha	4	App Consultora	04	Buscador	13	Catalogo Cyzone	02	Ficha	1
+1190020	Desktop Ficha Ofertas Para Ti Carrusel Sugeridos	1	Desktop	19	Ficha	00	Ofertas Para Ti	20	Carrusel Sugeridos	1
+1190120	Desktop Ficha Showroom Carrusel Sugeridos	1	Desktop	19	Ficha	01	Showroom	20	Carrusel Sugeridos	1
+1190220	Desktop Ficha Lanzamientos Carrusel Sugeridos	1	Desktop	19	Ficha	02	Lanzamientos	20	Carrusel Sugeridos	1
+1190320	Desktop Ficha Oferta Del Día Carrusel Sugeridos	1	Desktop	19	Ficha	03	Oferta Del Día	20	Carrusel Sugeridos	1
+1191420	Desktop Ficha Ganadoras Carrusel Sugeridos	1	Desktop	19	Ficha	14	Ganadoras	20	Carrusel Sugeridos	1
+2190020	Mobile Ficha Ofertas Para Ti Carrusel Sugeridos	2	Mobile	19	Ficha	00	Ofertas Para Ti	20	Carrusel Sugeridos	1
+2190120	Mobile Ficha Showroom Carrusel Sugeridos	2	Mobile	19	Ficha	01	Showroom	20	Carrusel Sugeridos	1
+2190220	Mobile Ficha Lanzamientos Carrusel Sugeridos	2	Mobile	19	Ficha	02	Lanzamientos	20	Carrusel Sugeridos	1
+2190320	Mobile Ficha Oferta Del Día Carrusel Sugeridos	2	Mobile	19	Ficha	03	Oferta Del Día	20	Carrusel Sugeridos	1
+2191420	Mobile Ficha Ganadoras Carrusel Sugeridos	2	Mobile	19	Ficha	14	Ganadoras	20	Carrusel Sugeridos	1
+4190020	App Consultora Ficha Ofertas Para Ti Carrusel Sugeridos	4	App Consultora	19	Ficha	00	Ofertas Para Ti	20	Carrusel Sugeridos	1
+4190120	App Consultora Ficha Showroom Carrusel Sugeridos	4	App Consultora	19	Ficha	01	Showroom	20	Carrusel Sugeridos	1
+4190220	App Consultora Ficha Lanzamientos Carrusel Sugeridos	4	App Consultora	19	Ficha	02	Lanzamientos	20	Carrusel Sugeridos	1
+4190320	App Consultora Ficha Oferta Del Día Carrusel Sugeridos	4	App Consultora	19	Ficha	03	Oferta Del Día	20	Carrusel Sugeridos	1
+4191420	App Consultora Ficha Ganadoras Carrusel Sugeridos	4	App Consultora	19	Ficha	14	Ganadoras	20	Carrusel Sugeridos	1
+1190021	Desktop Ficha Ofertas Para Ti Ficha Sugeridos	1	Desktop	19	Ficha	00	Ofertas Para Ti	21	Ficha Sugeridos	1
+1190121	Desktop Ficha Showroom Ficha Sugeridos	1	Desktop	19	Ficha	01	Showroom	21	Ficha Sugeridos	1
+1190221	Desktop Ficha Lanzamientos Ficha Sugeridos	1	Desktop	19	Ficha	02	Lanzamientos	21	Ficha Sugeridos	1
+1190321	Desktop Ficha Oferta Del Día Ficha Sugeridos	1	Desktop	19	Ficha	03	Oferta Del Día	21	Ficha Sugeridos	1
+1191421	Desktop Ficha Ganadoras Ficha Sugeridos	1	Desktop	19	Ficha	14	Ganadoras	21	Ficha Sugeridos	1
+2190021	Mobile Ficha Ofertas Para Ti Ficha Sugeridos	2	Mobile	19	Ficha	00	Ofertas Para Ti	21	Ficha Sugeridos	1
+2190121	Mobile Ficha Showroom Ficha Sugeridos	2	Mobile	19	Ficha	01	Showroom	21	Ficha Sugeridos	1
+2190221	Mobile Ficha Lanzamientos Ficha Sugeridos	2	Mobile	19	Ficha	02	Lanzamientos	21	Ficha Sugeridos	1
+2190321	Mobile Ficha Oferta Del Día Ficha Sugeridos	2	Mobile	19	Ficha	03	Oferta Del Día	21	Ficha Sugeridos	1
+2191421	Mobile Ficha Ganadoras Ficha Sugeridos	2	Mobile	19	Ficha	14	Ganadoras	21	Ficha Sugeridos	1
+4190021	App Consultora Ficha Ofertas Para Ti Ficha Sugeridos	4	App Consultora	19	Ficha	00	Ofertas Para Ti	21	Ficha Sugeridos	1
+4190121	App Consultora Ficha Showroom Ficha Sugeridos	4	App Consultora	19	Ficha	01	Showroom	21	Ficha Sugeridos	1
+4190221	App Consultora Ficha Lanzamientos Ficha Sugeridos	4	App Consultora	19	Ficha	02	Lanzamientos	21	Ficha Sugeridos	1
+4190321	App Consultora Ficha Oferta Del Día Ficha Sugeridos	4	App Consultora	19	Ficha	03	Oferta Del Día	21	Ficha Sugeridos	1
+4191421	App Consultora Ficha Ganadoras Ficha Sugeridos	4	App Consultora	19	Ficha	14	Ganadoras	21	Ficha Sugeridos	1
+1190018	Desktop Ficha Ofertas Para Ti Carrusel CrossSelling	1	Desktop	19	Ficha	00	Ofertas Para Ti	18	Carrusel CrossSelling	1
+1190118	Desktop Ficha Showroom Carrusel CrossSelling	1	Desktop	19	Ficha	01	Showroom	18	Carrusel CrossSelling	1
+1190218	Desktop Ficha Lanzamientos Carrusel CrossSelling	1	Desktop	19	Ficha	02	Lanzamientos	18	Carrusel CrossSelling	1
+1190318	Desktop Ficha Oferta Del Día Carrusel CrossSelling	1	Desktop	19	Ficha	03	Oferta Del Día	18	Carrusel CrossSelling	1
+1191418	Desktop Ficha Ganadoras Carrusel CrossSelling	1	Desktop	19	Ficha	14	Ganadoras	18	Carrusel CrossSelling	1
+2190018	Mobile Ficha Ofertas Para Ti Carrusel CrossSelling	2	Mobile	19	Ficha	00	Ofertas Para Ti	18	Carrusel CrossSelling	1
+2190118	Mobile Ficha Showroom Carrusel CrossSelling	2	Mobile	19	Ficha	01	Showroom	18	Carrusel CrossSelling	1
+2190218	Mobile Ficha Lanzamientos Carrusel CrossSelling	2	Mobile	19	Ficha	02	Lanzamientos	18	Carrusel CrossSelling	1
+2190318	Mobile Ficha Oferta Del Día Carrusel CrossSelling	2	Mobile	19	Ficha	03	Oferta Del Día	18	Carrusel CrossSelling	1
+2191418	Mobile Ficha Ganadoras Carrusel CrossSelling	2	Mobile	19	Ficha	14	Ganadoras	18	Carrusel CrossSelling	1
+4190018	App Consultora Ficha Ofertas Para Ti Carrusel CrossSelling	4	App Consultora	19	Ficha	00	Ofertas Para Ti	18	Carrusel CrossSelling	1
+4190118	App Consultora Ficha Showroom Carrusel CrossSelling	4	App Consultora	19	Ficha	01	Showroom	18	Carrusel CrossSelling	1
+4190218	App Consultora Ficha Lanzamientos Carrusel CrossSelling	4	App Consultora	19	Ficha	02	Lanzamientos	18	Carrusel CrossSelling	1
+4190318	App Consultora Ficha Oferta Del Día Carrusel CrossSelling	4	App Consultora	19	Ficha	03	Oferta Del Día	18	Carrusel CrossSelling	1
+4191418	App Consultora Ficha Ganadoras Carrusel CrossSelling	4	App Consultora	19	Ficha	14	Ganadoras	18	Carrusel CrossSelling	1
+1190019	Desktop Ficha Ofertas Para Ti Ficha CrossSelling	1	Desktop	19	Ficha	00	Ofertas Para Ti	19	Ficha CrossSelling	1
+1190119	Desktop Ficha Showroom Ficha CrossSelling	1	Desktop	19	Ficha	01	Showroom	19	Ficha CrossSelling	1
+1190219	Desktop Ficha Lanzamientos Ficha CrossSelling	1	Desktop	19	Ficha	02	Lanzamientos	19	Ficha CrossSelling	1
+1190319	Desktop Ficha Oferta Del Día Ficha CrossSelling	1	Desktop	19	Ficha	03	Oferta Del Día	19	Ficha CrossSelling	1
+1191419	Desktop Ficha Ganadoras Ficha CrossSelling	1	Desktop	19	Ficha	14	Ganadoras	19	Ficha CrossSelling	1
+2190019	Mobile Ficha Ofertas Para Ti Ficha CrossSelling	2	Mobile	19	Ficha	00	Ofertas Para Ti	19	Ficha CrossSelling	1
+2190119	Mobile Ficha Showroom Ficha CrossSelling	2	Mobile	19	Ficha	01	Showroom	19	Ficha CrossSelling	1
+2190219	Mobile Ficha Lanzamientos Ficha CrossSelling	2	Mobile	19	Ficha	02	Lanzamientos	19	Ficha CrossSelling	1
+2190319	Mobile Ficha Oferta Del Día Ficha CrossSelling	2	Mobile	19	Ficha	03	Oferta Del Día	19	Ficha CrossSelling	1
+2191419	Mobile Ficha Ganadoras Ficha CrossSelling	2	Mobile	19	Ficha	14	Ganadoras	19	Ficha CrossSelling	1
+4190019	App Consultora Ficha Ofertas Para Ti Ficha CrossSelling	4	App Consultora	19	Ficha	00	Ofertas Para Ti	19	Ficha CrossSelling	1
+4190119	App Consultora Ficha Showroom Ficha CrossSelling	4	App Consultora	19	Ficha	01	Showroom	19	Ficha CrossSelling	1
+4190219	App Consultora Ficha Lanzamientos Ficha CrossSelling	4	App Consultora	19	Ficha	02	Lanzamientos	19	Ficha CrossSelling	1
+4190319	App Consultora Ficha Oferta Del Día Ficha CrossSelling	4	App Consultora	19	Ficha	03	Oferta Del Día	19	Ficha CrossSelling	1
+4191419	App Consultora Ficha Ganadoras Ficha CrossSelling	4	App Consultora	19	Ficha	14	Ganadoras	19	Ficha CrossSelling	1
+4020008	App Consultora Pedido Ofertas Para Ti Carrusel Recomendado	4	App Consultora	02	Pedido	00	Ofertas Para Ti	08	Carrusel Recomendado	1
+4020009	App Consultora Pedido Ofertas Para Ti Ficha Recomendada	4	App Consultora	02	Pedido	00	Ofertas Para Ti	09	Ficha Recomendada	1
+4020108	App Consultora Pedido Showroom Carrusel Recomendado	4	App Consultora	02	Pedido	01	Showroom	08	Carrusel Recomendado	1
+4020109	App Consultora Pedido Showroom Ficha Recomendada	4	App Consultora	02	Pedido	01	Showroom	09	Ficha Recomendada	1
+4020208	App Consultora Pedido Lanzamientos Carrusel Recomendado	4	App Consultora	02	Pedido	02	Lanzamientos	08	Carrusel Recomendado	1
+4020209	App Consultora Pedido Lanzamientos Ficha Recomendada	4	App Consultora	02	Pedido	02	Lanzamientos	09	Ficha Recomendada	1
+4020308	App Consultora Pedido Oferta Del Día Carrusel Recomendado	4	App Consultora	02	Pedido	03	Oferta Del Día	08	Carrusel Recomendado	1
+4020309	App Consultora Pedido Oferta Del Día Ficha Recomendada	4	App Consultora	02	Pedido	03	Oferta Del Día	09	Ficha Recomendada	1
+4020608	App Consultora Pedido Liquidación Carrusel Recomendado	4	App Consultora	02	Pedido	06	Liquidación	08	Carrusel Recomendado	1
+4020609	App Consultora Pedido Liquidación Ficha Recomendada	4	App Consultora	02	Pedido	06	Liquidación	09	Ficha Recomendada	1
+4020808	App Consultora Pedido Herramientas de Venta Carrusel Recomendado	4	App Consultora	02	Pedido	08	Herramientas de Venta	08	Carrusel Recomendado	1
+4020809	App Consultora Pedido Herramientas de Venta Ficha Recomendada	4	App Consultora	02	Pedido	08	Herramientas de Venta	09	Ficha Recomendada	1
+4020508	App Consultora Pedido GND Carrusel Recomendado	4	App Consultora	02	Pedido	05	GND	08	Carrusel Recomendado	1
+4020509	App Consultora Pedido GND Ficha Recomendada	4	App Consultora	02	Pedido	05	GND	09	Ficha Recomendada	1
+4021108	App Consultora Pedido Catalogo Lbel Carrusel Recomendado	4	App Consultora	02	Pedido	11	Catalogo Lbel	08	Carrusel Recomendado	1
+4021109	App Consultora Pedido Catalogo Lbel Ficha Recomendada	4	App Consultora	02	Pedido	11	Catalogo Lbel	09	Ficha Recomendada	1
+4021208	App Consultora Pedido Catalogo Esika Carrusel Recomendado	4	App Consultora	02	Pedido	12	Catalogo Esika	08	Carrusel Recomendado	1
+4021209	App Consultora Pedido Catalogo Esika Ficha Recomendada	4	App Consultora	02	Pedido	12	Catalogo Esika	09	Ficha Recomendada	1
+4021308	App Consultora Pedido Catalogo Cyzone Carrusel Recomendado	4	App Consultora	02	Pedido	13	Catalogo Cyzone	08	Carrusel Recomendado	1
+4021309	App Consultora Pedido Catalogo Cyzone Ficha Recomendada	4	App Consultora	02	Pedido	13	Catalogo Cyzone	09	Ficha Recomendada	1
+4021408	App Consultora Pedido Ganadoras Carrusel Recomendado	4	App Consultora	02	Pedido	14	Ganadoras	08	Carrusel Recomendado	1
+4021409	App Consultora Pedido Ganadoras Ficha Recomendada	4	App Consultora	02	Pedido	14	Ganadoras	09	Ficha Recomendada	1
+1190022	Desktop Ficha Ofertas Para Ti Promocion Condicional	01	Desktop	19	Ficha	00	Ofertas Para Ti	22	Promocion Condicional	1
+1190122	Desktop Ficha Showroom Promocion Condicional	01	Desktop	19	Ficha	01	Showroom	22	Promocion Condicional	1
+1190222	Desktop Ficha Lanzamientos Promocion Condicional	01	Desktop	19	Ficha	02	Lanzamientos	22	Promocion Condicional	1
+1190322	Desktop Ficha Oferta Del Día Promocion Condicional	01	Desktop	19	Ficha	03	Oferta Del Día	22	Promocion Condicional	1
+1190522	Desktop Ficha GND Promocion Condicional	01	Desktop	19	Ficha	05	GND	22	Promocion Condicional	1
+1190822	Desktop Ficha Herramientas de Venta Promocion Condicional	01	Desktop	19	Ficha	08	Herramientas de Venta	22	Promocion Condicional	1
+1191122	Desktop Ficha Catalogo Lbel Promocion Condicional	01	Desktop	19	Ficha	11	Catalogo Lbel	22	Promocion Condicional	1
+1191222	Desktop Ficha Catalogo Esika Promocion Condicional	01	Desktop	19	Ficha	12	Catalogo Esika	22	Promocion Condicional	1
+1191322	Desktop Ficha Catalogo Cyzone Promocion Condicional	01	Desktop	19	Ficha	13	Catalogo Cyzone	22	Promocion Condicional	1
+1191422	Desktop Ficha Ganadoras Promocion Condicional	01	Desktop	19	Ficha	14	Ganadoras	22	Promocion Condicional	1
+2190022	Mobile Ficha Ofertas Para Ti Promocion Condicional	02	Mobile	19	Ficha	00	Ofertas Para Ti	22	Promocion Condicional	1
+2190122	Mobile Ficha Showroom Promocion Condicional	02	Mobile	19	Ficha	01	Showroom	22	Promocion Condicional	1
+2190222	Mobile Ficha Lanzamientos Promocion Condicional	02	Mobile	19	Ficha	02	Lanzamientos	22	Promocion Condicional	1
+2190322	Mobile Ficha Oferta Del Día Promocion Condicional	02	Mobile	19	Ficha	03	Oferta Del Día	22	Promocion Condicional	1
+2190522	Mobile Ficha GND Promocion Condicional	02	Mobile	19	Ficha	05	GND	22	Promocion Condicional	1
+2191122	Mobile Ficha Catalogo Lbel Promocion Condicional	02	Mobile	19	Ficha	11	Catalogo Lbel	22	Promocion Condicional	1
+2191222	Mobile Ficha Catalogo Esika Promocion Condicional	02	Mobile	19	Ficha	12	Catalogo Esika	22	Promocion Condicional	1
+2191322	Mobile Ficha Catalogo Cyzone Promocion Condicional	02	Mobile	19	Ficha	13	Catalogo Cyzone	22	Promocion Condicional	1
+2191422	Mobile Ficha Ganadoras Promocion Condicional	02	Mobile	19	Ficha	14	Ganadoras	22	Promocion Condicional	1
+1190523	Desktop Ficha GND Promocion Producto	01	Desktop	19	Ficha	05	GND	23	Promocion Producto	1
+1191123	Desktop Ficha Catalogo Lbel Promocion Producto	01	Desktop	19	Ficha	11	Catalogo Lbel	23	Promocion Producto	1
+1191223	Desktop Ficha Catalogo Esika Promocion Producto	01	Desktop	19	Ficha	12	Catalogo Esika	23	Promocion Producto	1
+1191323	Desktop Ficha Catalogo Cyzone Promocion Producto	01	Desktop	19	Ficha	13	Catalogo Cyzone	23	Promocion Producto	1
+2190523	Mobile Ficha GND Promocion Producto	02	Mobile	19	Ficha	05	GND	23	Promocion Producto	1
+2191123	Mobile Ficha Catalogo Lbel Promocion Producto	02	Mobile	19	Ficha	11	Catalogo Lbel	23	Promocion Producto	1
+2191223	Mobile Ficha Catalogo Esika Promocion Producto	02	Mobile	19	Ficha	12	Catalogo Esika	23	Promocion Producto	1
+2191323	Mobile Ficha Catalogo Cyzone Promocion Producto	02	Mobile	19	Ficha	13	Catalogo Cyzone	23	Promocion Producto	1
+4212001	App Consultora Landing Fest Premio Fest Carrusel	4	App Consultora	21	Landing Fest	20	Premio Fest	01	Carrusel	1
+4212002	App Consultora Landing Fest Premio Fest Ficha	4	App Consultora	21	Landing Fest	20	Premio Fest	02	Ficha	1
+4220101	App Consultora Landing Sub Campaña Showroom Carrusel	4	App Consultora	22	Landing Sub Campaña	01	Showroom	01	Carrusel	1
+4220102	App Consultora Landing Sub Campaña Showroom Ficha	4	App Consultora	22	Landing Sub Campaña	01	Showroom	02	Ficha	1
+4170601	App consultora Landing categorías Liquidación Carrusel	4	App consultora	17	Landing categorías	06	Liquidación	01	Carrusel	1
+4170602	App consultora Landing categorías Liquidación Ficha	4	App consultora	17	Landing categorías	06	Liquidación	02	Ficha	1
+4171101	App consultora Landing categorías Catalogo Lbel Carrusel	4	App consultora	17	Landing categorías	11	Catalogo Lbel	01	Carrusel	1
+4171102	App consultora Landing categorías Catalogo Lbel Ficha	4	App consultora	17	Landing categorías	11	Catalogo Lbel	02	Ficha	1
+4171201	App consultora Landing categorías Catalogo Esika Carrusel	4	App consultora	17	Landing categorías	12	Catalogo Esika	01	Carrusel	1
+4171202	App consultora Landing categorías Catalogo Esika Ficha	4	App consultora	17	Landing categorías	12	Catalogo Esika	02	Ficha	1
+4171301	App consultora Landing categorías Catalogo Cyzone Carrusel	4	App consultora	17	Landing categorías	13	Catalogo Cyzone	01	Carrusel	1
+4171302	App consultora Landing categorías Catalogo Cyzone Ficha	4	App consultora	17	Landing categorías	13	Catalogo Cyzone	02	Ficha	1
+4210001	App Consultora Landing Fest Ofertas Para Ti Carrusel	4	App consultora	21	Landing Fest	00	Ofertas Para Ti	01	Carrusel	1
+4210002	App Consultora Landing Fest Ofertas Para Ti Carrusel	4	App consultora	21	Landing Fest	00	Ofertas Para Ti	02	Ficha	1
+4210101	App Consultora Landing Fest Showroom Carrusel	4	App consultora	21	Landing Fest	01	Showroom	01	Carrusel	1
+4210102	App Consultora Landing Fest Showroom Carrusel	4	App consultora	21	Landing Fest	01	Showroom	02	Ficha	1
+4210201	App Consultora Landing Fest Lanzamientos Carrusel	4	App consultora	21	Landing Fest	02	Lanzamientos	01	Carrusel	1
+4210202	App Consultora Landing Fest Lanzamientos Carrusel	4	App consultora	21	Landing Fest	02	Lanzamientos	02	Ficha	1
+4210301	App Consultora Landing Fest Oferta Del Día Carrusel	4	App consultora	21	Landing Fest	03	Oferta Del Día	01	Carrusel	1
+4210302	App Consultora Landing Fest Oferta Del Día Carrusel	4	App consultora	21	Landing Fest	03	Oferta Del Día	02	Ficha	1
+4210501	App Consultora Landing Fest GND Carrusel	4	App consultora	21	Landing Fest	05	GND	01	Carrusel	1
+4210502	App Consultora Landing Fest GND Carrusel	4	App consultora	21	Landing Fest	05	GND	02	Ficha	1
+4210801	App Consultora Landing Fest Herramientas de Venta Carrusel	4	App consultora	21	Landing Fest	08	Herramientas de Venta	01	Carrusel	1
+4210802	App Consultora Landing Fest Herramientas de Venta Carrusel	4	App consultora	21	Landing Fest	08	Herramientas de Venta	02	Ficha	1
+4211101	App Consultora Landing Fest Catalogo Lbel Carrusel	4	App consultora	21	Landing Fest	11	Catalogo Lbel	01	Carrusel	1
+4211102	App Consultora Landing Fest Catalogo Lbel Carrusel	4	App consultora	21	Landing Fest	11	Catalogo Lbel	02	Ficha	1
+4211201	App Consultora Landing Fest Catalogo Esika Carrusel	4	App consultora	21	Landing Fest	12	Catalogo Esika	01	Carrusel	1
+4211202	App Consultora Landing Fest Catalogo Esika Carrusel	4	App consultora	21	Landing Fest	12	Catalogo Esika	02	Ficha	1
+4211301	App Consultora Landing Fest Catalogo Cyzone Carrusel	4	App consultora	21	Landing Fest	13	Catalogo Cyzone	01	Carrusel	1
+4211302	App Consultora Landing Fest Catalogo Cyzone Carrusel	4	App consultora	21	Landing Fest	13	Catalogo Cyzone	02	Ficha	1
+4211401	App Consultora Landing Fest Ganadoras Carrusel	4	App consultora	21	Landing Fest	14	Ganadoras	01	Carrusel	1
+4211402	App Consultora Landing Fest Ganadoras Carrusel	4	App consultora	21	Landing Fest	14	Ganadoras	02	Ficha	1
+1181901	Desktop Home Camino Brillante	1	Desktop	18	Home Camino Brillante	19	Camino Brillante	1	Carrusel	1
+2181901	Mobile Home Camino Brillante	2	Mobile	18	Camino Brillante	19	Camino Brillante	1	Carrusel	1
+4181901	App Home Camino Brillante	4	App	18	Camino Brillante	19	Camino Brillante	1	Carrusel	1
+6999999	SB3 Prueba SB3 Prueba SB3 Prueba SB3	6	Desktop SB3	99	Prueba SB3	99	Prueba SB3	99	Prueba SB3	1
